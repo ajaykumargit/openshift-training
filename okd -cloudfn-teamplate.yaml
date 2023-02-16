@@ -53,7 +53,7 @@ Resources:
     Properties:
       Tags:
       - Key: Name
-        Value: Anil-openshift-node2
+        Value: Ajay-openshift-node2
       - Key:  kubernetes.io/cluster/openshift
         Value: owned
       IamInstanceProfile: okd-admin
